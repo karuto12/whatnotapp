@@ -1,0 +1,2 @@
+selenium_stealth==1.0.6
+selenium==4.31.0
